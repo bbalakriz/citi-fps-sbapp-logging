@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "location": "RETAIL_STORE",
+    "registeredTime": 1622736900000
+  },
+  {
+    "id": "1",
+    "location": "RETAIL_STORE",
+    "registeredTime": 1622736900000
+  },
+  {
+    "id": "4",
+    "location": "FUEL_STATION",
+    "registeredTime": 1622751300000
+  },
+  {
+    "id": "3",
+    "location": "JEWELLERY_STORE",
+    "registeredTime": 1622744100000
+  },
+  {
+    "id": "3a",
+    "location": "SUPERMARKET",
+    "registeredTime": 1622748000000
+  },
+  {
+    "id": "3b",
+    "location": "JEWELLERY_STORE",
+    "registeredTime": 1622749620000
+  },
+  { "id": "2", "location": "ONLINE", "registeredTime": 1622735280000 }
+]
